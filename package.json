@@ -1,8 +1,8 @@
 {
-  "name": "rappo",
+  "name": "Insightful_IT_Services",
   "version": "1.0.0",
-  "description": "rappo free corporate website template",
-  "author": "Themefisher",
+  "description": "Unlocking our digital potential, one managed solution at a time.",
+  "author": "Ashwini Maurya",
   "license": "MIT",
   "scripts": {
     "dev": "gulp",
