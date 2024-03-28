@@ -1,21 +1,21 @@
-# Insightful By Themefisher
+# rkssh By Themefisher
 
-Insightful is a set of landing and support pages aimed at helping companies promote new products and business launches.
+rkssh is a set of landing and support pages aimed at helping companies promote new products and business launches.
 
 <!-- demo -->
 ## Example Site
 
-| [![](screenshots/index1.png)](https://demo.themefisher.com/Insightful/) | [![](screenshots/index2.png)](https://demo.themefisher.com/Insightful/index-2.html) | [![](screenshots/index3.png)](https://demo.themefisher.com/Insightful/index-3.html) |
+| [![](screenshots/index1.png)](https://demo.themefisher.com/rkssh/) | [![](screenshots/index2.png)](https://demo.themefisher.com/rkssh/index-2.html) | [![](screenshots/index3.png)](https://demo.themefisher.com/rkssh/index-3.html) |
 |:---:|:---:|:---:|
 | **Home 1**  | **Home 2**  | **Home 3** |
-| [![](screenshots/index4.png)](https://demo.themefisher.com/Insightful/index-4.html) | [![](screenshots/about.png)](https://demo.themefisher.com/Insightful/about.html) | [![](screenshots/service.png)](https://demo.themefisher.com/Insightful/service.html) |
+| [![](screenshots/index4.png)](https://demo.themefisher.com/rkssh/index-4.html) | [![](screenshots/about.png)](https://demo.themefisher.com/rkssh/about.html) | [![](screenshots/service.png)](https://demo.themefisher.com/rkssh/service.html) |
 | **Home 4** | **About** | **Service** |
-| [![](screenshots/pricing.png)](https://demo.themefisher.com/Insightful/pricing.html) | [![](screenshots/projects.png)](https://demo.themefisher.com/Insightful/project.html) | [![](screenshots/project-details.png)](https://demo.themefisher.com/Insightful/project-details.html) |
+| [![](screenshots/pricing.png)](https://demo.themefisher.com/rkssh/pricing.html) | [![](screenshots/projects.png)](https://demo.themefisher.com/rkssh/project.html) | [![](screenshots/project-details.png)](https://demo.themefisher.com/rkssh/project-details.html) |
 | **Pricing** | **Project** | **Project Details** |
-| [![](screenshots/contact.png)](https://demo.themefisher.com/Insightful/contact.html) |
+| [![](screenshots/contact.png)](https://demo.themefisher.com/rkssh/contact.html) |
 | **Contact** |
 
-👉🏻[View Live Preview](https://demo.themefisher.com/Insightful/)
+👉🏻[View Live Preview](https://demo.themefisher.com/rkssh/)
 
 <!-- pages -->
 ## Pages
@@ -34,7 +34,7 @@ Insightful is a set of landing and support pages aimed at helping companies prom
 <!-- download -->
 ## Download And installation
 
-Download this template from [Github](https://github.com/themefisher/Insightful/archive/main.zip)
+Download this template from [Github](https://github.com/themefisher/rkssh/archive/main.zip)
 
 <!-- installation -->
 ### Basic Usages
@@ -84,7 +84,7 @@ npm run build
 
 Now you get a `theme` folder that has all the changes you have made. you can use this folder as your main theme.
 
-👉🏻 [visit documentation](https://docs.themefisher.com/Insightful/)
+👉🏻 [visit documentation](https://docs.themefisher.com/rkssh/)
 
 <!-- support -->
 ## Technical Support or Questions (Paid)
@@ -94,8 +94,8 @@ If you have questions or need help integrating the product please [contact us](m
 <!-- reporting issue -->
 ## Reporting Issues
 
-We use GitHub Issues as the official bug tracker for the Insightful Template. Please Search [existing issues](https://github.com/themefisher/Insightful-It-Solutions-Corporate-Template/issues). It’s possible someone has already reported the same problem.
-If your problem or idea has not been addressed yet, feel free to [open a new issue](https://github.com/themefisher/Insightful-It-Solutions-Corporate-Template/issues).
+We use GitHub Issues as the official bug tracker for the rkssh Template. Please Search [existing issues](https://github.com/themefisher/rkssh-It-Solutions-Corporate-Template/issues). It’s possible someone has already reported the same problem.
+If your problem or idea has not been addressed yet, feel free to [open a new issue](https://github.com/themefisher/rkssh-It-Solutions-Corporate-Template/issues).
 
 <!-- support -->
 ## Technical Support or Questions (Paid)
@@ -107,7 +107,7 @@ If you have questions or need help integrating the product please [contact us](m
 
 Copyright (c) 2016 - Present, Designed & Developed by [Themefisher](https://themefisher.com)
 
-**Code License:** Released under the [MIT](https://github.com/themefisher/Insightful/blob/main/LICENSE) license.
+**Code License:** Released under the [MIT](https://github.com/themefisher/rkssh/blob/main/LICENSE) license.
 
 **Image license:** The images are only for demonstration purposes. They have their license, we don't have permission to share those images.
 
