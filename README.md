@@ -1,7 +1,8 @@
 # rkssh By Themefisher
 
 rkssh is a set of landing and support pages aimed at helping companies promote new products and business launches.
-
+username:dipu
+password:1234
 <!-- demo -->
 ## Example Site
 
@@ -122,3 +123,6 @@ Some third-party plugins that we used to build this template. Please check their
 * **Themify Icons**: <https://themify.me/themify-icons/>
 * **Font Awesome Free**: <https://fontawesome.com/>
 * **Slick**: <https://kenwheeler.github.io/slick/>
+
+username:dipusingh
+password:123456788
